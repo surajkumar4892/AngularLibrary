@@ -1,0 +1,6 @@
+{
+    "BaseRefUrl": "http://localhost:5000",
+    "AuthenticationUrl": "http://localhost:61822",
+    "SwiftRouterUrl": "http://localhost:51258"
+}
+  
